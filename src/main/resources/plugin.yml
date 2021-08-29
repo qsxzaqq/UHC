@@ -1,0 +1,9 @@
+name: UHC
+main: cc.i9mc.uhc.UHC
+version: 1.0.9-DEV
+softdepend: [NametagEdit, Nick, GlobalPrefix, PluginChannel, GameUtils, WatchNMSLReport, DanSync, Vault]
+commands:
+  start:
+  game:
+  nextevent:
+  ns:
